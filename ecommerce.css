@@ -11,3 +11,8 @@
   border: none;
   outline: none;
 }
+
+#top_title {
+  border: 1px solid red;
+  width: 95%;
+}
