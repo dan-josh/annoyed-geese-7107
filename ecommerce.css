@@ -14,5 +14,16 @@
 
 #top_title {
   border: 1px solid red;
-  width: 95%;
+  width: 90%;
+  font-weight: 400;
+  line-height: 5%;
+}
+#top_landing,
+#top_landing1 {
+  font-family: "source sans pro", sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 28.08px;
+  width: 90%;
+  color: #9c9c9c;
 }
