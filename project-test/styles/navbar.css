@@ -15,6 +15,7 @@
     background: white;
     padding: 5px;
     height: 80px;
+    z-index: 30;
 }
 
 #nav > div{
@@ -109,13 +110,13 @@
     font-family: sans-serif;
 }
 
-#pricing > a{
+#pricing > #a-pricing{
     text-decoration: none;
     color: black;
 }
 
 
-#contact > a{
+#contact > #a-contact{
     text-decoration: none;
     color: black;
 

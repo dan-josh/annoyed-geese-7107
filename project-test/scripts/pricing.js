@@ -1,9 +1,9 @@
 function monthlyOffer(){
     // let myValue=JSON.parse(localStorage.getItem("values"));
     let obj={}
-    let withoutOffer=document.querySelector("#usdofmonth>h1>span");
-    console.log(withoutOffer.innerHTML)
-    let a=withoutOffer.innerHTML
+    let withoutOffer=document.querySelector("#usdofmonth2>h1>span");
+    // console.log(withoutOffer.innerHTML)
+    let a=withoutOffer.innerHTML;
     
   
     let withOffer=document.querySelector("#off_20>h2>span");
@@ -28,7 +28,8 @@ function monthlyOffer(){
   
   
   function giveYearly(){
-    window.location.href="yearly.html"
+    console.log("hjfwegfae")
+    window.location.href="./newyearly.html"
     // let usd=document.getElementById("#switch");
     // let usdMonth=document.querySelector("#usdofmonth>span");
   

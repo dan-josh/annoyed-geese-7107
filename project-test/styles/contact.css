@@ -84,13 +84,13 @@ div:nth-child(1)>.btn-cont-1{
     margin: 22% 0 0 22%;
 }
 div:nth-child(2)>.btn-cont-1{
-    margin: 11% 0 0 22%;
+    margin: 22% 0 0 22%;
 }
 div:nth-child(3)>.btn-cont-1{
-    margin: 1% 0 0 22%;
+    margin: 13% 0 0 22%;
 }
 div:nth-child(4)>.btn-cont-1{
-    margin: 11% 0 0 22%;
+    margin: 22% 0 0 22%;
 }
 .btn-cont-1:hover{
     background-color: blue;
